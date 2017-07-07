@@ -1,2 +1,2 @@
 # app
-https://myacho.github.io/app/.main.html
+https://myacho.github.io/app/main.html
